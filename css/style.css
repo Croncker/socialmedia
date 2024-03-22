@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #e4e4e4;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .logo img {
+    width: 20rem;
+    margin-top: 1rem;
+  }
+  
+  .instagram-feed {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .instagram-post {
+    position: relative;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .instagram-post img {
+    max-width: 100%;
+    height: auto;
+    width: 50rem; /* Adicionando a largura desejada */
+    height: 35rem; /* Adicionando a altura desejada */
+}
+
+  
+  .instagram-icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .instagram-icons i {
+    font-size: 2rem;
+    margin-right: 1rem;
+    color: #000000;
+    padding: 0.5rem;
+  }
+
+  .instagram-icons i:hover{
+    cursor: pointer;
+  }
+  
+  .instagram-icons .fa-bookmark {
+    margin-right: 0;
+    margin-left: auto;
+  }
+  
+  
+  

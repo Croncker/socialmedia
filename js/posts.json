@@ -1,0 +1,42 @@
+[
+  { 
+      "image": "img/person1.webp",
+      "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+  },
+  { 
+      "image": "img/person2.webp",
+      "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+  },
+  { 
+      "image": "img/paradise.webp",
+      "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+  },
+  { 
+    "image": "img/person4.webp",
+    "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+},
+{ 
+    "image": "img/paradise2.webp",
+    "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+},
+{ 
+    "image": "img/person5.webp",
+    "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+},
+{ 
+    "image": "img/person6.webp",
+    "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+},
+{ 
+    "image": "img/paradise3.webp",
+    "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+},
+{ 
+    "image": "img/family.webp",
+    "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+},
+{ 
+    "image": "img/family2.webp",
+    "icons": ["fas fa-heart", "fas fa-comment", "fas fa-paper-plane", "fas fa-bookmark"]
+}
+]
